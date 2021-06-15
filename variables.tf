@@ -22,7 +22,7 @@ variable generation {
 variable resource_group {
   description = "Name of resource group to create VPC"
   type        = string
-  default     = "asset-development"
+  default     = "Default"
 }
 
 variable vpc_name {
